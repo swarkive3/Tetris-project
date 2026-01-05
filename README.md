@@ -1,4 +1,4 @@
-# Tetris-project
+# Tetris Project
 
 A classic Tetris clone built in Python.
 
@@ -21,9 +21,11 @@ A classic Tetris clone built in Python.
     ```
 
 - Controls
-Arrow Keys: Move and Rotate blocks
-Down Key: Speed up fall
+* **Arrow Keys**: Move and Rotate blocks
+* **Down Key**: Speed up fall
 
-## 🛠️ Built With
+- Built With
+* Python
+* [Pygame]
 * Python
 * [Pygame](https://www.pygame.org/) (assumed)
